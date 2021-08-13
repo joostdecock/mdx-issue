@@ -1,0 +1,21 @@
+{
+  "name": "mdx-issue",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fec/remark-responsive-images": "^0.1.3-alpha",
+    "@mdx-js/loader": "1.6.22",
+    "@mdx-js/mdx": "1.6.22",
+    "@next/mdx": "^9.5.3",
+    "next": "^9.5.3",
+    "next-mdx-remote": "^3.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "remark-images": "^2.0.0"
+  }
+}
